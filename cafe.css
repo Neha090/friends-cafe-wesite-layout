@@ -1,0 +1,44 @@
+.split
+{
+height:70%;
+width:100%;
+display:flex;
+}
+.left
+{
+height:70%;
+width:60%;
+}
+.right
+{
+height:70%;
+width:40%
+}
+
+body{
+border:2px solid black;
+padding:10px;
+}
+
+#menu{
+	background:brown;
+	padding:2 px;
+}
+
+div#menu ul li{
+	display:inline-block;
+	padding:10px;
+}
+
+div#menu ul li a{
+	color:white;
+}
+td
+{
+	color:brown;
+}
+h2,h1
+{
+	color:brown;
+}
+	
